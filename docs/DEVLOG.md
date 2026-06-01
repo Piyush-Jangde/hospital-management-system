@@ -7,7 +7,7 @@ Completed:
 - Added project documentation
 - Added .gitignore
 - Initial push to GitHub
+- Setup Prisma and Connect to PostgreSQL
 
 Next:
-- Install Prisma
-- Setup PostgreSQL
+- Design Initial Database Schema
