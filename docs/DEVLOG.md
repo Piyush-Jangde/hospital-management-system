@@ -1,12 +1,13 @@
 # June 1
 
 Completed:
-- Created repository
-- Setup project structure
-
-Issues:
-- None
+- Created repository structure
+- Configured TypeScript backend
+- Setup Express server
+- Added project documentation
+- Added .gitignore
+- Initial push to GitHub
 
 Next:
-- Setup frontend
-- Setup backend
+- Install Prisma
+- Setup PostgreSQL
